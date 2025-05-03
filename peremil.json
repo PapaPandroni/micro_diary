@@ -1,7 +1,7 @@
-{   
-    "points": 52,
-    "last_opened": "2025-05-01",
-    "streak": 1,
+{
+    "points": 71,
+    "last_opened": "2025-05-03",
+    "streak": 0,
     "entries": [
         {
             "date": "2025-04-30",
@@ -52,10 +52,31 @@
             "date": "2025-05-01",
             "entry": "creating graph visualization",
             "points": 5
+        },
+        {
+            "date": "2025-05-03",
+            "entry": "my mom visited",
+            "points": 5
+        },
+        {
+            "date": "2025-05-03",
+            "entry": "ran a race with my son ",
+            "points": 5
+        },
+        {
+            "date": "2025-05-03",
+            "entry": "cheered on my wife",
+            "points": 5
+        },
+        {
+            "date": "2025-05-03",
+            "entry": "went out with my family and had a great time",
+            "points": 5
         }
     ],
     "daily_points": {
         "2025-04-30": 26,
-        "2025-05-01": 52
+        "2025-05-01": 52,
+        "2025-05-03": 71
     }
 }
